@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="D9ws152nMrPGC" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Practice Test - 2 (Symmetry elements &amp; operations)</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="practice_test_-_2_(symmetry_elements_&amp;_operations)_organization">
+		<organization identifier="practice_test_-_2_(symmetry_elements_&amp;_operations)_organization">
+
+			<title>Practice Test - 2 (Symmetry elements &amp; operations)</title>
+			<item identifier="AD57C5CE-F94D-42C6-9EB8-6CC7A5A232E5" identifierref="resource">
+				<title>Practice Test - 2 (Symmetry elements &amp; operations)</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/fonts/fnt5.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/img-1879d728ba0d633d6494632c1dc24da94cb4f464.png"/>
+<file href="res/data/images/img-1e0eab8174642bd1921638f9bd71e94648399338.jpg"/>
+<file href="res/data/images/img-2d073d42ee5c328985eff179084952cb815c2fb5.png"/>
+<file href="res/data/images/img-2fd53ca525fd73512f611c6724d943ebfd87ff77.png"/>
+<file href="res/data/images/img-70acd4c8305b1f41bfd21f12917c9e0be81cd580.png"/>
+<file href="res/data/images/img-cf1bf4b371e9b11625e73a16cf1475aff0e36a34.jpg"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
